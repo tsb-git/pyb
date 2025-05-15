@@ -953,13 +953,13 @@ input:required {
 .breadcrumb-area {
   position: relative;
   z-index: 1;
-  height: 370px; }
+  height: 670px; }
   @media only screen and (max-width: 767px) {
     .breadcrumb-area {
       height: 240px; } }
   .breadcrumb-area .page-title {
     color: #ffffff;
-    font-size: 36px; }
+    font-size: 86px; }
     @media only screen and (max-width: 767px) {
       .breadcrumb-area .page-title {
         font-size: 24px; } }
